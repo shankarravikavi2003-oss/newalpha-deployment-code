@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: 889966879746.dkr.ecr.eu-north-1.amazonaws.com/lwm-alpha:10-ea52f84
+          image: 889966879746.dkr.ecr.eu-north-1.amazonaws.com/lwm-alpha:11-3f135e7
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 80
